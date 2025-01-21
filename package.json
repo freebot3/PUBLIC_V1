@@ -1,0 +1,23 @@
+{
+  "owner": "Wily Kun",
+  "name": "readsw",
+  "version": "1.0.0",
+  "description": "Huehehe",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "autoreadsw",
+    "baileys"
+  ],
+  "author": "Wily Kun",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "^1.7.9",
+    "dotenv": "latest",
+    "qrcode-terminal": "latest"
+  }
+}

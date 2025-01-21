@@ -1,0 +1,6 @@
+# Owner: Wily Kun
+# Recode: Wily Kun
+# -------------------------------------------------------------------------
+build:
+  docker:
+    worker: worker/Dockerfile
